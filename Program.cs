@@ -20,7 +20,7 @@ var database = builder.Configuration["Database"] ?? "";
 var password = builder.Configuration["Password"] ?? "";
 var user = builder.Configuration["DBUser"] ?? "";
 
-var DbConnectionString = $"Server={server}, {port}; User ID={user}; Password={password}; Database={database};";
+var DbConnectionString = $"Server=containers-us-west-101.railway.app, 7880; User ID=postgres; Password=TQwMOtKhmzNiy81ugKgr; Database=railway;";
 ConfigureServices(builder.Services);
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
 
