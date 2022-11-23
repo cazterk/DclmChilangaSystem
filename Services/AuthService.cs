@@ -4,10 +4,10 @@ using System.Security.Cryptography;
 using System.Security.Claims;
 using System.Text;
 
-using ChurchSystem.Models;
+using DclmChilangaSystem.Models;
 
 
-namespace ChurchSystem.Services
+namespace DclmChilangaSystem.Services
 {
 
     using BCrypt.Net;

@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using ChurchSystem.Models;
+using DclmChilangaSystem.Models;
 
 
 public interface IAdultsService

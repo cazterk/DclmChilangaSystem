@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
-using ChurchSystem;
-using ChurchSystem.Models;
+using DclmChilangaSystem;
+using DclmChilangaSystem.Models;
 
 
 

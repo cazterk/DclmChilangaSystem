@@ -1,4 +1,4 @@
-using ChurchSystem.Models;
+using DclmChilangaSystem.Models;
 using System;
 using Microsoft.AspNetCore.Mvc;
 public interface IUserService

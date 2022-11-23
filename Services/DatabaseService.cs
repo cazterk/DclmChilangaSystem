@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
-using ChurchSystem.Models;
+using DclmChilangaSystem.Models;
 
 
 public static class DatabaseService

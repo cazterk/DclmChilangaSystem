@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 
-using ChurchSystem.Models;
+using DclmChilangaSystem.Models;
 
 
 public interface IChildrenService

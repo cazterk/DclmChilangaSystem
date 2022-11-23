@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using ChurchSystem;
-namespace ChurchSystem.Models
+using DclmChilangaSystem;
+namespace DclmChilangaSystem.Models
 
 {
 

@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-namespace ChurchSystem.Models
+namespace DclmChilangaSystem.Models
 {
 
     public class Tithe

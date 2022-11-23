@@ -1,5 +1,5 @@
-using ChurchSystem;
-using ChurchSystem.Models;
+using DclmChilangaSystem;
+using DclmChilangaSystem.Models;
 
 
 public class ChildrenService : IChildrenService

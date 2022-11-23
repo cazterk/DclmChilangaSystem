@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System;
 
-namespace ChurchSystem.Models
+namespace DclmChilangaSystem.Models
 {
 
     public class User

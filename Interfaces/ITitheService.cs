@@ -1,4 +1,4 @@
-using ChurchSystem.Models;
+using DclmChilangaSystem.Models;
 
 
 public interface ITitheService

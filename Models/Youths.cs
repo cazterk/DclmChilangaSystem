@@ -1,4 +1,4 @@
-namespace ChurchSystem.Models
+namespace DclmChilangaSystem.Models
 {
     public class Youths : Attendance
     {

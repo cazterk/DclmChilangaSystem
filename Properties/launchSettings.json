@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "ChurchSystem": {
+    "DclmChilangaSystem": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
